@@ -9,7 +9,7 @@ tags:
 
 > Life is made up of compromises.
 >
-> -- <cite> Edith Warton </cite>
+> <cite> Edith Warton </cite>
 
 Now that I look cultivated with my citation, I might have one or two things to develop on the matter. As an optimization fan, I am constantly identifying situations where we could be more efficient in our lives, this post is about the efficiency of decisions. 
 
@@ -30,7 +30,7 @@ To optimize such choices, what we usually do is observe multiple life scenarios 
 | 80 | 4000 | 
 
 In a graph, the data would look like this:
-<img src="../images/working.png">
+<img src="../images/profile.png">
 <em>The work-life balance graph.</em>
 
 
@@ -41,6 +41,8 @@ In the middle, we can observe a curve. That curve is the efficiency zone: whenev
 
 Well now the news is that as long as you stay on that curve, no point is objectively better than the other. That means a person working 20 hours a week for 1000€ is not "better" or "worse" than a person working 40 for 2000€. This precise thing illustrates one of the many compromises we have to make in life.
 
-*Take-home* - Finally, here is what science says: the point which is optimal depends on the **person's preferences**. So, yes, earning less money than your neighbour can be optimal for you, if you prefer more free time. And no, working full-time just "because everyone does" is not necessarily the best strategy for you (and that's OK!). In the end, looking at what choices the other make is irrelevant for you. What is relevant is determining what's best for you *i.e.* your preferences. Moreover, the optimal point for people is rarely lying on an extreme end of a curve. Which is also why I think extremism in any form is a bad way to simplify decisions. 
+*Take-home* - Finally, here is what science says: the point which is optimal depends on the **person's preferences**. So, yes, earning less money than your neighbour can be optimal for you, if you prefer more free time. And no, working full-time just "because everyone does" is not necessarily the best strategy for you (and that's OK!). In the end, in the quest for happiness, looking at what choices the other make is irrelevant for you. What is relevant is determining what's best for you *i.e.* your preferences. 
 
 Of course, this point does not restrict to work-life balance only. Here are other compromises examples: transportation price vs eco-friendliness, buying a house vs a flat, meat vs vegetarian diet.
+
+_PS: the optimal point for people is rarely lying on an extreme end of a curve. Which is also why I think extremism in any form is a bad way to simplify decisions. The answer is always in the middle._
