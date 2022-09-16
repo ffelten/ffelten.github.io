@@ -23,13 +23,12 @@ Education
 
 Work experience
 ======
-* 2021--: Lecturer
+* 2021--: Lecturer @ Uni.lu
   * Programming Fundamentals 3
   * 2nd year CS course
   * Functional Programming, Concurrent Programming, Introduction to distributed systems
 
-* 2018--2021: Software engineer
-  * [N-SIDE](https://www.n-side.com/)
+* 2018--2021: Software engineer @ [N-SIDE](https://www.n-side.com/)
   * Duties included: Architecture, Development and deployment of the apps, Backlog management, Requirement analysis.
   * Stack: Scala, Akka, Kubernetes, IBM CP Optimizer, Scala.js
   
