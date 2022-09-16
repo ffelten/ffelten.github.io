@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am PhD Student in the [PCOG](https://pcog.uni.lu/) group at the University of Luxembourg. My current research interests are Multi-Objective Optimization, Reinforcement Learning, and Swarm applications. I am currently working on Automating the Design of Autonomous Robot Swarms ([ADARS](https://adars.uni.lu/)) project, under the supervision of [Grégoire Danoy](https://danoy.gforge.uni.lu/).
+I am a PhD Student in the [PCOG](https://pcog.uni.lu/) group at the University of Luxembourg. My current research interests are Multi-Objective Optimization, Reinforcement Learning, and Swarm applications. I am currently working on Automating the Design of Autonomous Robot Swarms ([ADARS](https://adars.uni.lu/)) project, under the supervision of [Grégoire Danoy](https://danoy.gforge.uni.lu/).
+
+I am convinced that specifying AI problems as single-objective is often not enough as we often make compromises in real-life situations. To me, the fact that most our current flagship applications in an advanced field such as AI are single-objective is appalling.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EOPakyUUeyY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<img src="../images/mo_cheetah.gif">
 
-<em>The consequences of learning multiple behaviours, based on different trade-offs in the objectives</em>
+<em>The consequences of learning multiple behaviours, based on different trade-offs in the objectives. Here, the agent learns to run differently based on the trade-off between energy consumption and velocity.</em>
 
 
 
