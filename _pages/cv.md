@@ -9,32 +9,41 @@ redirect_from:
 
 {% include base_path %}
 
+Just over to my [LinkedIn](https://www.linkedin.com/in/florian-felten/).
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Université Catholique de Louvain, 2015
+* M.S. in Computer Science, Université Catholique de Louvain, Major in AI, Big Data and Optimization, 2018
+  * [Thesis](https://dial.uclouvain.be/memoire/ucl/en/object/thesis%3A14566) subject: "Reducing train delays in a real-time context: a **Constraint Programming** approach using conditional time-interval variables"
+  * Grade: Magna Cum Laude
+  * Erasmus at KTH, Stockholm
+* Ph.D in Computer Science (2021--present)
+  * T.A. in Optimization for Computer Scientist: Master
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021--: Lecturer
+  * Programming Fundamentals 3
+  * 2nd year CS course
+  * Functional Programming, Concurrent Programming, Introduction to distributed systems
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018--2021: Software engineer
+  * [N-SIDE](https://www.n-side.com/)
+  * Duties included: Architecture, Development and deployment of the apps, Backlog management, Requirement analysis.
+  * Stack: Scala, Akka, Kubernetes, IBM CP Optimizer, Scala.js
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Optimization
+* Machine Learning
+* Programming
+  * Functional 
+  * Imperative & Object-Oriented
+  * Concurrency
+  * Distributed systems
+* Teaching
+* Chilling
 
 Publications
 ======
@@ -54,6 +63,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
