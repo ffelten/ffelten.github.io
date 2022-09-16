@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD Student in the [PCOG](https://pcog.uni.lu/) group at the University of Luxembourg. My current research interests are Multi-Objective Optimization, Reinforcement Learning, and Swarm applications. I am currently working on Automating the Design of Autonomous Robot Swarms ([ADARS](https://adars.uni.lu/)) project, under the supervision of [Grégoire Danoy](https://danoy.gforge.uni.lu/).
 
-I am convinced that specifying AI problems as single-objective is often not enough as we often make compromises in real-life situations. To me, the fact that most our current flagship applications in an advanced field such as AI are single-objective is appalling.
+I am convinced that specifying AI problems as single-objective is often not enough since we often make compromises in real-life situations. To me, the fact that most our current flagship applications in such an advanced field as AI are single-objective is appalling.
 
 
 <img src="../images/mo_cheetah.gif">
@@ -25,7 +25,7 @@ Aside from the cool things mentionned above, I am into cinema, cycling, and beer
 
 <img src="../images/epuck.jpeg" width=300>
 
-<em>The epuck robots, our toys in ADARS.</em>
+<em>The epuck robots, some of our toys in ADARS.</em>
 
 
 
