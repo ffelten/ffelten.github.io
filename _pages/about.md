@@ -27,5 +27,13 @@ Aside from the cool things mentionned above, I am into cinema, cycling, and beer
 
 <em>The epuck robots, some of our toys in ADARS.</em>
 
+Open source
+===
+
+MO-Gym
+---
+<img src="../images/mo-gym.gif" width=300 style="float:left">
+With [Lucas](https://www.inf.ufrgs.br/~lnalegre/) of [mo-gym](https://github.com/LucasAlegre/mo-gym), a library containing multiple multi-objective RL environments under a standardized API.
+
 
 
