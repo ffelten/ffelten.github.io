@@ -1,7 +1,7 @@
 ---
 title: 'Life is made of compromises'
 date: 2022-09-14
-permalink: /posts/2022/09/life-is-made-of-compromises/
+permalink: /posts/life-is-made-of-compromises/
 tags:
   - multi-objective
   - life
@@ -30,12 +30,12 @@ To optimize such choices, what we usually do is observe multiple life scenarios 
 | 80 | 4000 | 
 
 In a graph, the data would look like this:
-<img src="../images/profile.png">
+<img src="../images/working.png">
 <em>The work-life balance graph.</em>
 
 
 
-Naturally, you can see in the graph that the more time you spend working, the more money you can expect. So far, the data seem logical and everything makes sense. Notice that I have drawn two zones also in the graph. The red one is the inefficient zone; it means that if you are in that zone, well friend you work too much for your salary. The green zone is the unusually good zone, it means that you are doing better than the average for the hours you do. You can think of a billionaire for the latter.
+Naturally, you can see in the graph that the more time you spend working, the more money you can expect. The data seem logical and everything makes sense (at least I hope so). Notice that I have drawn two zones also in the graph. The red one is the inefficient zone; it means that if you are in that zone, well friend you work too much for the salary you get. The green zone is the unusually good zone, it means that you are doing better than the average for the hours you do. You can think of a billionaire for the latter.
 
 In the middle, we can observe a curve. That curve is the efficiency zone: whenever you are on a point on that zone, it is in general impossible to increase one criteria, without sacrifying in the other. For example, you cannot earn more without working more, and you cannot work less without losing salary. This concept is called [Pareto efficiency](https://en.wikipedia.org/wiki/Pareto_efficiency) by the economists and guys like me.
 
