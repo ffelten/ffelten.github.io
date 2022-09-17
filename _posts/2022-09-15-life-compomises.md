@@ -35,7 +35,7 @@ In a graph, the data would look like this:
 
 
 
-Naturally, you can see in the graph that the more time you spend working, the more money you can expect. The data seem logical and everything makes sense (at least I hope so). Notice that I have drawn two zones also in the graph. The red one is the inefficient zone; it means that if you are in that zone, well friend you work too much for the salary you get. The green zone is the unusually good zone, it means that you are doing better than the average for the hours you do. You can think of a billionaire for the latter.
+Naturally, you can see in the graph that the more time you spend working, the more money you can expect[^1]. The data seem logical and everything makes sense (at least I hope so). Notice that I have drawn two zones also in the graph. The red one is the inefficient zone; it means that if you are in that zone, well friend you work too much for the salary you get. The green zone is the unusually good zone, it means that you are doing better than the average for the hours you do. You can think of a billionaire for the latter. 
 
 In the middle, we can observe a curve. That curve is the efficiency zone: whenever you are on a point on that zone, it is in general impossible to increase one criteria, without sacrifying in the other. For example, you cannot earn more without working more, and you cannot work less without losing salary. This concept is called [Pareto efficiency](https://en.wikipedia.org/wiki/Pareto_efficiency) by the economists and guys like me.
 
@@ -46,3 +46,5 @@ Well now the news is that as long as you stay on that curve, no point is objecti
 Of course, this point does not restrict to work-life balance only. Here are other compromises examples: transportation price vs eco-friendliness, buying a house vs a flat, meat vs vegetarian diet.
 
 _PS: the optimal point for people is rarely lying on an extreme end of a curve. Which is also why I think extremism in any form is a bad way to simplify decisions. The answer is always in the middle._
+
+[^1]: In real-life, the optimal choice depends on more criteria than these two. For simplification, criterias like fulfilment, ethics, family time, commuting time are not displayed in the graph.
