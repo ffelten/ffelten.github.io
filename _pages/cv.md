@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Just over to my [LinkedIn](https://www.linkedin.com/in/florian-felten/).
+My [LinkedIn](https://www.linkedin.com/in/florian-felten/) is more complete than this page.
 
 Education
 ======
