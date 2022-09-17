@@ -32,8 +32,8 @@ Open source
 
 MO-Gym
 ---
-<img src="../images/mo-gym.gif" width=300 style="float:left">
-With [Lucas](https://www.inf.ufrgs.br/~lnalegre/) of [mo-gym](https://github.com/LucasAlegre/mo-gym), a library containing multiple multi-objective RL environments under a standardized API.
+<img src="../images/mo-gym.gif" width=300 style="float:left; padding:10px" >
+With [Lucas](https://www.inf.ufrgs.br/~lnalegre/), we wrote [mo-gym](https://github.com/LucasAlegre/mo-gym), a library containing multiple multi-objective RL environments under a standardized API.
 
 
 
