@@ -30,7 +30,7 @@ To optimize such choices, what we usually do is observe multiple life scenarios 
 | 80 | 4000 | 
 
 In a graph, the data would look like this:
-![Work-life balance graph](working.png)
+![Work-life balance graph](../working.png)
 <em>The work-life balance graph.</em>
 
 
