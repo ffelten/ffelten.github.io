@@ -1,7 +1,7 @@
 ---
-title: 'The limit of the Central Limit (theorem)'
+title: 'The limits of the Central Limit (theorem)'
 date: 2022-10-15
-permalink: /posts/2022/10/15/limit-central-limit/
+permalink: /posts/limit-central-limit/
 tags:
   - Statistics
   - Life
