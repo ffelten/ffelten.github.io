@@ -29,8 +29,14 @@ Well it turns out that if you start doing that, and **making people believe you 
 
 Imagine the next person coming to the room, his name is Swarren Blackett... and this guy makes 10 MILLIONS per months. Well, this is far off the Gaussian distribution we have been constructing. But we said 95% confidence, not 100%, didn't we? Yes, we did but anyways, **the problem here is the magnitude of the difference between the average salary you have been sampling and this guy's salary**. Imagine the error you make when predicting the next dude has a salary of 2200... If an unexpected event like this happens, it might ruin everything you have build until then. This is called a Black Swan by [Nassim Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb), a brilliant dude.
 
+To give you an idea of the effect of such an event on the bell curve and the 95% confidence interval, here is the same data, with my guy Swarren:
+
+![After unexpected event](../after_event.png)
+
+Boy this does not look good anymore heh? All of this with one single person.
+
 ## Gaussian usage in real life
-Now a lot of people (me included until I read Taleb's book) use and believe in these confidence intervals and uncertainty measures every day (from medicine to finance). For example, predicting with 95% that a large bank is not going bankrupt :-). People blindly relying on Gaussian measures are not protected from unexpected events, even if they believe they do (well, technically in finance it is not even their money).
+Now a lot of people (me included until I read Taleb's book) use and believe in these confidence intervals and uncertainty measures every day (from medicine to finance). For example, predicting with 95% that a large bank is not going bankrupt :-). People blindly relying on Gaussian measures are not protected from unexpected events, even if they believe they do (well, technically in finance it is not even their money). And in some cases, this reasoning can cause a lot of damages, so be careful please.
 
 ## Summary
 We use Gaussian distributions to quantify uncertainty in a lot of cases because it is familiar and easy to manipulate;
