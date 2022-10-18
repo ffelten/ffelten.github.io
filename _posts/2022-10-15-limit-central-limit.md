@@ -35,10 +35,10 @@ Now a lot of people (me included until I read Taleb's book) use and believe in t
 ## Summary
 We use Gaussian distributions to quantify uncertainty in a lot of cases because it is familiar and easy to manipulate;
 * 1st problem: Not all kinds of data fit a Gaussian model;
-* 2nd problem: When you think you quantify the uncertainty, you actually quantify how much the data you **have seen varies**. Not how much **all the data can vary**. There is a difference between *seen uncertainty* and *unseen uncertainty*, and the problem is that with Gaussian distribution, we only quantify the former, while the latter might have big consequences. 
+* 2nd problem: When you think you quantify the uncertainty, you actually quantify how much the **data you have seen varies**. Not how much **all the data can vary**. There is a difference between *seen uncertainty* and *unseen uncertainty*, and the problem is that with Gaussian distribution, we only quantify the former, while the latter might have big consequences. 
 
 ## So what can we do? 
-- Question yourself if a Gaussian fits, and do not trust too much. 
+- Question yourself if a Gaussian fits, and do not put too much trust in the model. 
 - There are also other distribution models, so called power-law that could fit better some kind of data. 
 
-I am no expert in statistics, thus I am going to stop here before I give wrong information. 
+I am no expert in statistics, thus I am going to stop here before I give wrong information. Cheers! 
