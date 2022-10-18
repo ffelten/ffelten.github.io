@@ -23,7 +23,7 @@ Well, now if we do the same experimentation but collect people's monthly income 
 
 ![People income](../people_salary_normal.png)
 
-Now, I can make the same kind of prediction as for their height; with 95% confidence, I can say that the next person's salary is going to be between 1450 and 2800. I can use this process pretty much everywhere thanks to the Theorem (some people even say if you have more than 30 samples you're good to go), brilliant!
+Now, I can make the same kind of prediction as for their height; with 95% confidence, I can say that the next person's salary is going to be between 1625 and 2800. I can use this process pretty much everywhere thanks to the Theorem (some people even say if you have more than 30 samples you're good to go), brilliant!
 
 Well it turns out that if you start doing that, and **making people believe you can put actual numbers on the uncertainty of everything you want to predict, you are going to be burned hard**. 
 
