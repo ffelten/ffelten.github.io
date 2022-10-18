@@ -23,18 +23,19 @@ Well, now if we do the same experimentation but collect people's monthly income 
 
 Now, I can make the same kind of prediction as for their height; with 95% confidence, I can say that the next person's salary is going to be between 1450 and 2800. I can use this process pretty much everywhere thanks to the Theorem (some people even say if you have more than 30 samples you're good to go), brilliant!
 
-Well it turns out that if you start doing that, and making people believe you can put actual numbers on the uncertainty of everything you want to predict, you are going to be burned hard. 
+Well it turns out that if you start doing that, and **making people believe you can put actual numbers on the uncertainty of everything you want to predict, you are going to be burned hard**. 
 
-Imagine the next person coming to the room, his name is Swarren Blackett... and this guy makes 10 MILLIONS per months. Well, this is far off the Gaussian distribution we have been constructing. But we said 95% confidence, not 100%, didn't we? Yes, we did but anyways, the problem here is the magnitude of the difference between the average salary you have been sampling and this guy's salary. Imagine the error you make when predicting the next dude has a salary of 2200... If an unexpected event like this happens, it might ruin everything you have build until then. This is called a Black Swan by [Nassim Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb), a brilliant dude.
+Imagine the next person coming to the room, his name is Swarren Blackett... and this guy makes 10 MILLIONS per months. Well, this is far off the Gaussian distribution we have been constructing. But we said 95% confidence, not 100%, didn't we? Yes, we did but anyways, **the problem here is the magnitude of the difference between the average salary you have been sampling and this guy's salary**. Imagine the error you make when predicting the next dude has a salary of 2200... If an unexpected event like this happens, it might ruin everything you have build until then. This is called a Black Swan by [Nassim Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb), a brilliant dude.
 
-Now the problem is that a lot of people use and believe in these confidence intervals and uncertainty measures every day (from medicine to finance). For example, predicting with 95% that a large bank is not going bankrupt :-). People blindly relying on Gaussian measures are not protected from losing everything, even if they believe they do (well, technically in finance it is not even their money).
+Now a lot of people (me included until I read Taleb's book) use and believe in these confidence intervals and uncertainty measures every day (from medicine to finance). For example, predicting with 95% that a large bank is not going bankrupt :-). People blindly relying on Gaussian measures are not protected from losing everything, even if they believe they do (well, technically in finance it is not even their money).
 
-Here are the problems:
-* Gaussian Distributions do not fit all kinds of data. Yet, we use it most of the time because we are lazy and it is quite familiar (call it state-of-the-art if you wish);
-* When you think you quantify the uncertainty, you actually quantify how much the data you **have seen varies**. Not how much **all the data can vary**. This is a huge difference. There is a difference between *seen uncertainty* and *unseen uncertainty*, and the problem is that with Gaussian distribution, we only quantify the former, while the latter might have big consequences. 
+To summarize, here are the problems:
+We use Gaussian distributions to quantify uncertainty in a lot of cases because it is familiar and easy to manipulate;
+* 1st problem: Not all kinds of data fit a Gaussian model;
+* 2nd problem: When you think you quantify the uncertainty, you actually quantify how much the data you **have seen varies**. Not how much **all the data can vary**. There is a difference between *seen uncertainty* and *unseen uncertainty*, and the problem is that with Gaussian distribution, we only quantify the former, while the latter might have big consequences. 
 
 So what can we do? 
 - Question yourself if a Gaussian fits, and do not trust too much. 
-- There are also other distribution models, so called fat-tailed, power-law that could fit better some kind of data. 
+- There are also other distribution models, so called power-law that could fit better some kind of data. 
 
 I am no expert in statistics, thus I am going to stop here before I give wrong information. 
