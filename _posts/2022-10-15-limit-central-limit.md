@@ -34,7 +34,7 @@ Now a lot of people (me included until I read Taleb's book) use and believe in t
 
 ## Summary
 We use Gaussian distributions to quantify uncertainty in a lot of cases because it is familiar and easy to manipulate;
-* 1st problem: Not all kinds of data fit a Gaussian model;
+* 1st problem: Not all kinds of data fit a Gaussian model. For example, people's height fits such model since it seems very unlikely to encounter a person that is 4 meters tall (as the model would predict). On the other hand, we saw that people's income does not follow such model since there are people earning way above the average.
 * 2nd problem: When you think you quantify the uncertainty, you actually quantify how much the **data you have seen varies**. Not how much **all the data can vary**. There is a difference between *seen uncertainty* and *unseen uncertainty*, and the problem is that with Gaussian distribution, we only quantify the former, while the latter might have big consequences. 
 
 ## So what can we do? 
