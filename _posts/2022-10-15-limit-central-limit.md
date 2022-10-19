@@ -16,7 +16,7 @@ The usage of the Gaussian distribution is largely motivated by the Central Limit
 
 ![People height Gaussian](../people_height.gif)
 
-In this graph, the x-axis is the height (cms) of people and y-axis represents the number of people with that height in what I sampled. As you can see, the more I collect people's height, the more the curve looks like a bell. But what is all the fuss about this bell? Well, it turns out that once you get to this familiar shape, you can predict the height of the next person with *some kind of confidence*. For example, after sampling thousands of people, I can say with 95% confidence that the next person's height is going to be between 155 and 194 cms, which seems pretty logical, isn't it? 
+In this graph, the x-axis is the height (cms) of people and y-axis represents the number of people with that height in what I sampled. As you can see, the more I collect people's height, the more the curve looks like a bell. But what is all the fuss about this bell? Well, it turns out that once you get to this familiar shape, you can predict the height of the next person with *some kind of confidence*. For example, after sampling thousands of people, I can say with 95% confidence that the next person's height is going to be between 155 and 194 cms, which seems pretty logical, isn't it? This is called statistical inference (or prediction using machine learning in nowadays' buzzwords) by the way.
 
 ## Using Gaussian to predict people's income
 Well, now if we do the same experimentation but collect people's monthly income (oddly enough, I always get more attention from people when talking about money). After sampling a few thousands people, I see the mighty bell shape coming back:
@@ -36,12 +36,12 @@ To give you an idea of the effect of such an event on the bell curve and the 95%
 Now you are able to say with 95% confidence that the salary of the next person is between -60,000 and 65,000. Boy this does not look good anymore, heh? Take a moment to realize how it changed from the last confidence interval (1,625 to 2,800). All of this with one single person.
 
 ## Gaussian usage in real life
-Now a lot of people (me included until I read Taleb's book) use and believe in these confidence intervals and uncertainty measures every day (from medicine to finance). For example, predicting with 95% that a large bank is not going bankrupt :-). People blindly relying on Gaussian measures are not protected from unexpected events, even if they believe they do (well, technically in finance it is not even their money). And in some cases, this reasoning can cause a lot of damages (like actual lives).
+Now a lot of people (me included until I read Taleb's book) use and believe in these confidence intervals and uncertainty measures every day (from medicine to finance). For example, predicting with 95% confidence that a large bank is not going bankrupt 🙃. People blindly relying on Gaussian measures are not protected from unexpected events, even if they believe they do (well, technically in finance it is not even their money). And in some cases, this reasoning can cause a lot of damages (like actual lives).
 
 ## Summary
 We use Gaussian distributions to quantify uncertainty in a lot of cases because it is familiar and easy to manipulate;
 * 1st problem: Not all kinds of data fit a Gaussian model. For example, people's height fits such model since it seems very unlikely to encounter a person that is 4 meters tall (as the model would predict). On the other hand, we saw that people's income does not follow such model since there are people earning way above the average.
-* 2nd problem: When you think you quantify the uncertainty, you actually quantify how much the **data you have seen varies**. Not how much **all the data can vary**. There is a difference between *seen uncertainty* and *unseen uncertainty*, and the problem is that with Gaussian distribution, we only quantify the former, while the latter might have big consequences. 
+* 2nd problem: When you think you quantify the uncertainty, you actually quantify how much the data you have seen varies. Not how much all the data can vary. There is a **difference between seen uncertainty and unseen uncertainty**, and the problem is that with Gaussian distribution, we only quantify the former, while the latter might have big consequences. 
 
 ## So what can we do? 
 - Question yourself if a Gaussian fits, and do not put too much trust in the model. 
