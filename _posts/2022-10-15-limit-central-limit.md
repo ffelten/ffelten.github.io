@@ -23,11 +23,11 @@ Well, now if we do the same experimentation but collect people's monthly income 
 
 ![People income](../people_salary_normal.png)
 
-Now, I can make the same kind of prediction as for their height; with 95% confidence, I can say that the next person's salary is going to be between 1625 and 2800. I can use this process pretty much everywhere thanks to the Theorem (some people even say if you have more than 30 samples you're good to go), brilliant!
+Now, I can make the same kind of prediction as for their height; with 95% confidence, I can say that the next person's salary is going to be between 1,625 and 2,800. I can use this process pretty much everywhere thanks to the Theorem (some people even say if you have more than 30 samples you're good to go), brilliant!
 
 Well it turns out that if you start doing that, and **making people believe you can put actual numbers on the uncertainty of everything you want to predict, you are going to be burned hard**. 
 
-Imagine the next person coming to the room, his name is Swarren Blackett... and this guy makes 10 MILLIONS per months. Well, this is far off the Gaussian distribution we have been constructing. But we said 95% confidence, not 100%, didn't we? Yes, we did but anyways, **the problem here is the magnitude of the difference between the average salary you have been sampling and this guy's salary**. Imagine the error you make when predicting the next dude has a salary of 2200... If an unexpected event like this happens, it might ruin everything you built until then. This is called a Black Swan by [Nassim Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb), a brilliant dude.
+Imagine the next person coming to the room, his name is Swarren Blackett... and this guy makes 10 MILLIONS per months. Well, this is far off of the Gaussian distribution we have been constructing. But we said 95% confidence, not 100%, didn't we? Yes, we did but anyways, **the problem here is the magnitude of the difference between the average salary you have been sampling and this guy's salary**. Imagine the error you make when predicting the next dude has a salary of 2,200... If an unexpected event like this happens, it might ruin everything you built until then. This is called a Black Swan by [Nassim Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb), a brilliant dude.
 
 To give you an idea of the effect of such an event on the bell curve and the 95% confidence interval, here is the same data, with my guy Swarren:
 
