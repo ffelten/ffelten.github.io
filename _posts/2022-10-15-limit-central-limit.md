@@ -16,7 +16,7 @@ The usage of the Gaussian distribution is largely motivated by the Central Limit
 
 ![People height Gaussian](../people_height.gif)
 
-In this graph, the x-axis is the height (cms) of people and y-axis represents the number of people with that height in what I sampled. As you can see, the more I collect height from people, the more the curve looks a bell. But what is all the fuss about this bell? Well, it turns out that once you get to this familiar shape, you can predict the height of the next person with *some kind of confidence*. For example, after sampling thousands of people, I can say with 95% confidence that the next person's height is going to be between 155 and 194 cms, which seems pretty logical, isn't it? 
+In this graph, the x-axis is the height (cms) of people and y-axis represents the number of people with that height in what I sampled. As you can see, the more I collect people's height, the more the curve looks like a bell. But what is all the fuss about this bell? Well, it turns out that once you get to this familiar shape, you can predict the height of the next person with *some kind of confidence*. For example, after sampling thousands of people, I can say with 95% confidence that the next person's height is going to be between 155 and 194 cms, which seems pretty logical, isn't it? 
 
 ## Using Gaussian to predict people's income
 Well, now if we do the same experimentation but collect people's monthly income (oddly enough, I always get more attention from people when talking about money). After sampling a few thousands people, I see the mighty bell shape coming back:
@@ -27,16 +27,16 @@ Now, I can make the same kind of prediction as for their height; with 95% confid
 
 Well it turns out that if you start doing that, and **making people believe you can put actual numbers on the uncertainty of everything you want to predict, you are going to be burned hard**. 
 
-Imagine the next person coming to the room, his name is Swarren Blackett... and this guy makes 10 MILLIONS per months. Well, this is far off the Gaussian distribution we have been constructing. But we said 95% confidence, not 100%, didn't we? Yes, we did but anyways, **the problem here is the magnitude of the difference between the average salary you have been sampling and this guy's salary**. Imagine the error you make when predicting the next dude has a salary of 2200... If an unexpected event like this happens, it might ruin everything you have build until then. This is called a Black Swan by [Nassim Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb), a brilliant dude.
+Imagine the next person coming to the room, his name is Swarren Blackett... and this guy makes 10 MILLIONS per months. Well, this is far off the Gaussian distribution we have been constructing. But we said 95% confidence, not 100%, didn't we? Yes, we did but anyways, **the problem here is the magnitude of the difference between the average salary you have been sampling and this guy's salary**. Imagine the error you make when predicting the next dude has a salary of 2200... If an unexpected event like this happens, it might ruin everything you built until then. This is called a Black Swan by [Nassim Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb), a brilliant dude.
 
 To give you an idea of the effect of such an event on the bell curve and the 95% confidence interval, here is the same data, with my guy Swarren:
 
-![After unexpected event](../after_event.png)
+![After unexpected event](../people_salary_after_black_swan.png)
 
-Boy this does not look good anymore heh? All of this with one single person.
+Now you are able to say with 95% confidence that the salary of the next person is between -60,000 and 65,000. Boy this does not look good anymore, heh? Take a moment to realize how it changed from the last confidence interval (1,625 to 2,800). All of this with one single person.
 
 ## Gaussian usage in real life
-Now a lot of people (me included until I read Taleb's book) use and believe in these confidence intervals and uncertainty measures every day (from medicine to finance). For example, predicting with 95% that a large bank is not going bankrupt :-). People blindly relying on Gaussian measures are not protected from unexpected events, even if they believe they do (well, technically in finance it is not even their money). And in some cases, this reasoning can cause a lot of damages, so be careful please.
+Now a lot of people (me included until I read Taleb's book) use and believe in these confidence intervals and uncertainty measures every day (from medicine to finance). For example, predicting with 95% that a large bank is not going bankrupt :-). People blindly relying on Gaussian measures are not protected from unexpected events, even if they believe they do (well, technically in finance it is not even their money). And in some cases, this reasoning can cause a lot of damages (like actual lives).
 
 ## Summary
 We use Gaussian distributions to quantify uncertainty in a lot of cases because it is familiar and easy to manipulate;
