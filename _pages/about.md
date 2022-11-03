@@ -27,13 +27,19 @@ Aside from the cool things mentionned above, I am into cinema, cycling, and beer
 
 <em>The epuck robots, some of our toys in ADARS.</em>
 
-Open source
-===
+# Open source
 
-MO-Gym
----
+
+## A suite for reproducible research in MORL
+With [Lucas](https://www.inf.ufrgs.br/~lnalegre/), we wrote two repositories aiming at helping researcher in reproducing results of existing MORL algorithms, as well as facilitate the whole research process by providing clean implementations and examples. By making this public, our hope is to attract even more people to the MORL field as well as remove boilerplate from the research process. 
+
+### MO-Gym
 <img src="../images/mo-gym.gif" width=300 style="float:left; padding:10px" >
-With [Lucas](https://www.inf.ufrgs.br/~lnalegre/), we wrote [mo-gym](https://github.com/LucasAlegre/mo-gym), a library containing multiple multi-objective RL environments. These environments are all under a standardized API, allowing to test your algorithms on multiple benchmarks without the need to change your code.
+[mo-gym](https://github.com/LucasAlegre/mo-gym) is a library containing multiple multi-objective RL environments. These environments are all under a standardized API, allowing to test your algorithms on multiple benchmarks without the need to change your code.
+
+### MORL-baselines
+<img src="../images/mo_cheetah.gif width=300 style="float:left; padding:10px">
+[morl-baselines](https://github.com/LucasAlegre/morl-baselines) is a repository containing multiple MORL algorithms using mo-gym. We aim to provide clean and reliable implementations as well as tools to help in the development of such algorithms.
 
 
 
