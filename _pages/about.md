@@ -31,7 +31,7 @@ Aside from the cool things mentionned above, I am into cinema, cycling, and beer
 
 
 ## A suite for reproducible research in MORL
-With [Lucas](https://www.inf.ufrgs.br/~lnalegre/), we wrote two repositories aiming at helping researcher in reproducing results of existing MORL algorithms, as well as facilitate the whole research process by providing clean implementations and examples. By making this public, our hope is to attract even more people to the MORL field as well as remove boilerplate from the research process. 
+With [Lucas](https://www.inf.ufrgs.br/~lnalegre/), we wrote two repositories aiming at helping researchers in reproducing results of existing MORL algorithms as well as facilitating the whole research process by providing clean implementations and examples. By making this public, our hope is to attract even more people to the MORL field and remove boilerplate from the research process. 
 
 ### MO-Gym
 <div>
