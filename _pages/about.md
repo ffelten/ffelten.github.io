@@ -38,6 +38,7 @@ With [Lucas](https://www.inf.ufrgs.br/~lnalegre/), we wrote two repositories aim
 [mo-gym](https://github.com/LucasAlegre/mo-gym) is a library containing multiple multi-objective RL environments. These environments are all under a standardized API, allowing to test your algorithms on multiple benchmarks without the need to change your code.  
 
 
+
 ### MORL-baselines
 <img src="../images/mo_cheetah.gif" width=300 style="float:left; padding:10px">
 [morl-baselines](https://github.com/LucasAlegre/morl-baselines) is a repository containing multiple MORL algorithms using mo-gym. We aim to provide clean, reliable and validated implementations as well as tools to help in the development of such algorithms. 
