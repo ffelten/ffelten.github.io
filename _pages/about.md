@@ -23,9 +23,10 @@ Before my PhD, I specialized into combinatorial optimization techniques such as 
 
 Aside from the cool things mentionned above, I am into cinema, cycling, and beers (yes, I am Belgian).
 
-<img src="../images/epuck.jpeg" width=300>
+<img src="../images/epuck.jpeg" width=300><img src="../images/swarm.gif" width=300>
+<em>The epuck robots, and the Crazyflie robots in action.</em>
 
-<em>The epuck robots, some of our toys in ADARS.</em>
+
 
 # Open source
 
