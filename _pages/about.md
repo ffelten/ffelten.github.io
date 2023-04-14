@@ -13,7 +13,7 @@ I am a PhD Student in the [PCOG](https://pcog.uni.lu/) group at the University o
 I am convinced that specifying AI problems as single-objective is often not enough since we often make compromises in real-life situations. To me, the fact that most our current flagship applications in such an advanced field as AI are single-objective is appalling.
 
 
-<img src="../images/mo_cheetah.gif">
+<img src="../images/mo_cheetah_rect.gif" width=500>
 
 <em>The consequences of learning multiple behaviours, based on different trade-offs in the objectives. Here, the agent learns to run differently based on the trade-off between energy consumption and velocity.</em>
 
@@ -45,7 +45,8 @@ With [Lucas](https://www.inf.ufrgs.br/~lnalegre/), we wrote two repositories aim
 
 ### MORL-baselines
 <div>
-<img src="../images/mo_cheetah.gif" width=300 style="float:left; padding:10px">
+<img src="../images/mo_cheetah_rect.gif" width=300 style="float:left; padding:10px">
+
 <a href="https://github.com/LucasAlegre/morl-baselines">morl-baselines</a> is a repository containing multiple MORL algorithms using mo-gymnasium. We aim to provide clean, reliable and validated implementations as well as tools to help in the development of such algorithms. 
 </div>
 
