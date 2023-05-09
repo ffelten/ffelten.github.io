@@ -50,6 +50,8 @@ With [Lucas](https://www.inf.ufrgs.br/~lnalegre/), we wrote two repositories aim
 <a href="https://github.com/LucasAlegre/morl-baselines">morl-baselines</a> is a repository containing multiple MORL algorithms using mo-gymnasium. We aim to provide clean, reliable and validated implementations as well as tools to help in the development of such algorithms. 
 </div>
 
+&nbsp;
+&nbsp;
 ## CrazyRL: a multi-agent RL library for swarm applications
 <img src="../images/swarm.gif" width=300 style="float:left; padding:10px">
 <a href="https://github.com/ffelten/CrazyRL">CrazyRL</a> is a MARL library under the <a href= "https://github.com/Farama-Foundation/PettingZoo">PettingZoo</a> API. It allows to learn swarm behaviours in a variety of environments, such as the one shown on the left. It is still under development, but we hope to release it soon.
