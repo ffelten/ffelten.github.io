@@ -13,17 +13,20 @@ My [LinkedIn](https://www.linkedin.com/in/florian-felten/) is more complete than
 
 Education
 ======
-* B.S. in Computer Science, Université Catholique de Louvain, 2015
+* Ph.D in Computer Science (2021--present)
+  * T.A. in Optimization for Computer Scientist: Master
 * M.S. in Computer Science, Université Catholique de Louvain, Major in AI, Big Data and Optimization, 2018
   * [Thesis](https://dial.uclouvain.be/memoire/ucl/en/object/thesis%3A14566) subject: "Reducing train delays in a real-time context: a **Constraint Programming** approach using conditional time-interval variables"
   * Grade: Magna Cum Laude
   * Erasmus at KTH, Stockholm
-* Ph.D in Computer Science (2021--present)
-  * T.A. in Optimization for Computer Scientist: Master
+* B.S. in Computer Science, Université Catholique de Louvain, 2015
 
 Work experience
 ======
-* 2021--: Lecturer @ Uni.lu
+* 2023--: Project Manager @ [Farama Foundation](https://farama.org/)
+  * I'm one of the original developers and maintainers of [MO-Gymnasium](https://github.com/Farama-Foundation/MO-Gymnasium).
+  * I also contribute to other projects of the foundation.
+* 2021--2023: Lecturer @ Uni.lu
   * Programming Fundamentals 3
   * 2nd year CS course
   * Functional Programming, Concurrent Programming, Introduction to distributed systems
@@ -43,6 +46,11 @@ Skills
   * Distributed systems
 * Teaching
 * Chilling
+
+Reviews
+======
+* [Adaptive and Learning Agents Workshop at AAMAS (ALA) 2023](https://alaworkshop2023.github.io/) (PC member)
+* [International Conference on Optimization and Learning (OLA) 2023](https://ola2023.sciencesconf.org/) (PC member)
 
 Publications
 ======
