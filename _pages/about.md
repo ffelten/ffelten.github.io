@@ -37,7 +37,7 @@ With [Lucas](https://www.inf.ufrgs.br/~lnalegre/), we wrote two repositories aim
 
 ### MO-Gymnasium
 <div>
-<img src="../images/farama_black.svg" width=150 style="float:left; padding:10px" >
+<img src="../images/MO-Gymnasium.svg" width=150 style="float:left; padding:10px" >
 <a href="https://github.com/Farama-Foundation/MO-Gymnasium">mo-gymnasium</a> is a library containing multiple multi-objective RL environments. These environments are all under a standardized API, allowing to test your algorithms on multiple benchmarks without the need to change your code. Since 2023, MO-Gymnasium has been integrated in the <a href="https://farama.org">Farama foundation</a> suite, aside to other RL projects such as <a href="https://github.com/Farama-Foundation/Gymnasium">Gymnasium</a> and <a href= "https://github.com/Farama-Foundation/PettingZoo">PettingZoo</a>.
 </div>
 &nbsp;
