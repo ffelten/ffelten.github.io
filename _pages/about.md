@@ -49,6 +49,7 @@ With [Lucas](https://www.inf.ufrgs.br/~lnalegre/), we wrote two repositories aim
 
 <a href="https://github.com/LucasAlegre/morl-baselines">morl-baselines</a> is a repository containing multiple MORL algorithms using mo-gymnasium. We aim to provide clean, reliable and validated implementations as well as tools to help in the development of such algorithms. 
 </div>
+<div></div>
 
 
 &nbsp;

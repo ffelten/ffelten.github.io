@@ -49,6 +49,7 @@ Skills
 
 Reviews
 ======
+* [Multi-Objective Decision Making Workshop (MODeM) 2023](https://modem2023.vub.ac.be/#) (PC member & session chair)
 * [Adaptive and Learning Agents Workshop at AAMAS (ALA) 2023](https://alaworkshop2023.github.io/) (PC member)
 * [International Conference on Optimization and Learning (OLA) 2023](https://ola2023.sciencesconf.org/) (PC member)
 
