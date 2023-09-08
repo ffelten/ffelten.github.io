@@ -36,32 +36,27 @@ Aside from the cool things mentionned above, I am into cinema, cycling, and beer
 With [Lucas](https://www.inf.ufrgs.br/~lnalegre/), we wrote two repositories aiming at helping researchers in reproducing results of existing MORL algorithms as well as facilitating the whole research process by providing clean implementations and examples. By making this public, our hope is to attract even more people to the MORL field and remove boilerplate from the research process. 
 
 ### MO-Gymnasium
-<div>
+<p>
 <img src="../images/MO-Gymnasium.svg" width=150 style="float:left; padding:10px" >
 <a href="https://github.com/Farama-Foundation/MO-Gymnasium">mo-gymnasium</a> is a library containing multiple multi-objective RL environments. These environments are all under a standardized API, allowing to test your algorithms on multiple benchmarks without the need to change your code. Since 2023, MO-Gymnasium has been integrated in the <a href="https://farama.org">Farama foundation</a> suite, aside to other RL projects such as <a href="https://github.com/Farama-Foundation/Gymnasium">Gymnasium</a> and <a href= "https://github.com/Farama-Foundation/PettingZoo">PettingZoo</a>.
-</div>
+</p>
 &nbsp;
 &nbsp;
 
 ### MORL-baselines
-<div>
+<p>
 <img src="../images/mo_cheetah_rect.gif" width=300 style="float:left; padding:10px">
 
 <a href="https://github.com/LucasAlegre/morl-baselines">morl-baselines</a> is a repository containing multiple MORL algorithms using mo-gymnasium. We aim to provide clean, reliable and validated implementations as well as tools to help in the development of such algorithms. 
-</div>
-<div></div>
+</p>
 
 
-&nbsp;
-&nbsp;
-&nbsp;
-&nbsp;
 &nbsp;
 ## CrazyRL
-<div>
+<p>
 <img src="../images/swarm.gif" width=300 style="float:left; padding:10px">
 <a href="https://github.com/ffelten/CrazyRL">CrazyRL</a> is a MARL library under the <a href= "https://github.com/Farama-Foundation/PettingZoo">PettingZoo</a> API. It allows to learn swarm behaviours in a variety of environments, such as the one shown on the left. It is still under development, but we hope to release it soon.
-</div>
+</p>
 
 
 
