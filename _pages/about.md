@@ -49,7 +49,7 @@ With [Lucas](https://www.inf.ufrgs.br/~lnalegre/), we wrote two repositories aim
 <p>
 <img src="../images/mo_cheetah_rect.gif" width=300 style="float:left; padding:10px">
 
-<a href="https://github.com/LucasAlegre/morl-baselines">morl-baselines</a> is a repository containing multiple MORL algorithms using mo-gymnasium. We aim to provide clean, reliable and validated implementations as well as tools to help in the development of such algorithms. 
+<a href="https://github.com/LucasAlegre/morl-baselines">morl-baselines</a> is a repository containing multiple MORL algorithms using MO-Gymnasium. We aim to provide clean, reliable and validated implementations as well as tools to help in the development of such algorithms. 
 </p>
 </div>
 
@@ -66,7 +66,7 @@ With [Lucas](https://www.inf.ufrgs.br/~lnalegre/), we wrote two repositories aim
 <h2> CrazyRL </h2>
 <p>
 <img src="../images/swarm.gif" width=300 style="float:left; padding:10px">
-<a href="https://github.com/ffelten/CrazyRL">CrazyRL</a> is a MARL library under the <a href= "https://github.com/Farama-Foundation/PettingZoo">PettingZoo</a> API. It allows to learn swarm behaviours in a variety of environments, such as the one shown on the left. It is still under development, but we hope to release it soon.
+<a href="https://github.com/ffelten/CrazyRL">CrazyRL</a> is a MOMARL library under a multi-objective extension of the  <a href= "https://github.com/Farama-Foundation/PettingZoo">PettingZoo</a> API. It allows to learn swarm behaviours in a variety of environments, such as the one shown on the left. It is still under development, but we hope to release it soon.
 </p>
 </div>
 
