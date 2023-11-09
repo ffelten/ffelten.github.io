@@ -33,14 +33,14 @@ Aside from the cool things mentionned above, I am into cinema, cycling, and beer
 
 <div>
 <h2> A suite for reproducible research in MORL </h2>
-With [Lucas](https://www.inf.ufrgs.br/~lnalegre/), we wrote two repositories aiming at helping researchers in reproducing results of existing MORL algorithms as well as facilitating the whole research process by providing clean implementations and examples. By making this public, our hope is to attract even more people to the MORL field and remove boilerplate from the research process. 
+With <a href="https://www.inf.ufrgs.br/~lnalegre/">Lucas</a>, we wrote two repositories aiming at helping researchers in reproducing results of existing MORL algorithms as well as facilitating the whole research process by providing clean implementations and examples. By making this public, our hope is to attract even more people to the MORL field and remove boilerplate from the research process. 
 </div>
 
 <div>
 <h3> MO-Gymnasium </h3>
 <p>
 <img src="../images/MO-Gymnasium.svg" width=150 style="float:left; padding:10px" >
-<a href="https://github.com/Farama-Foundation/MO-Gymnasium">mo-gymnasium</a> is a library containing multiple multi-objective RL environments. These environments are all under a standardized API, allowing to test your algorithms on multiple benchmarks without the need to change your code. Since 2023, MO-Gymnasium has been integrated in the <a href="https://farama.org">Farama foundation</a> suite, aside to other RL projects such as <a href="https://github.com/Farama-Foundation/Gymnasium">Gymnasium</a> and <a href= "https://github.com/Farama-Foundation/PettingZoo">PettingZoo</a>.
+<a href="https://github.com/Farama-Foundation/MO-Gymnasium">MO-Gymnasium</a> is a library containing multiple multi-objective RL environments. These environments are all under a standardized API, allowing to test your algorithms on multiple benchmarks without the need to change your code. Since 2023, MO-Gymnasium has been integrated in the <a href="https://farama.org">Farama foundation</a> suite, aside to other RL projects such as <a href="https://github.com/Farama-Foundation/Gymnasium">Gymnasium</a> and <a href= "https://github.com/Farama-Foundation/PettingZoo">PettingZoo</a>.
 </p>
 </div>
 
