@@ -1,9 +1,9 @@
 ---
 title: "Spotlight on young researchers"
 collection: talks
-type: "vulgarization"
+type: "Vulgarization"
 permalink: /talks/2023-06-01-spotlight
-venue: ""
+venue: "My lab"
 date: 2023-06-01
 location: "Online"
 ---
