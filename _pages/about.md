@@ -23,7 +23,7 @@ Before my PhD, I specialized into combinatorial optimization techniques such as 
 
 Aside from the cool things mentionned above, I am into cinema, cycling, and beers (yes, I am Belgian).
 
-<img src="../images/epuck.jpeg" width=300>  <img src="../images/swarm.gif" width=350>
+<img src="../images/epuck.jpeg" width=300>  <img src="../images/circle.gif" width=350>
 
 <em>Left: the Epuck robots, some of our toys in ADARS. Right: the Crazyflie robots in action.</em>
 
@@ -33,7 +33,7 @@ Aside from the cool things mentionned above, I am into cinema, cycling, and beer
 
 <div>
 <h2> A suite for reproducible research in MORL </h2>
-With <a href="https://www.inf.ufrgs.br/~lnalegre/">Lucas</a>, we wrote two repositories aiming at helping researchers in reproducing results of existing MORL algorithms as well as facilitating the whole research process by providing clean implementations and examples. By making this public, our hope is to attract even more people to the MORL field and remove boilerplate from the research process. 
+We wrote a few repositories aiming at helping researchers in reproducing results of existing MORL algorithms as well as facilitating the whole research process by providing clean implementations and examples. By making this public, our hope is to attract even more people to the MORL field and remove boilerplate from the research process. 
 </div>
 
 <div>
