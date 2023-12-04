@@ -65,7 +65,7 @@ We wrote a few repositories aiming at helping researchers in reproducing results
 <div>
 <h2> CrazyRL </h2>
 <p>
-<img src="../images/swarm.gif" width=300 style="float:left; padding:10px">
+<img src="../images/circle.gif" width=300 style="float:left; padding:10px">
 <a href="https://github.com/ffelten/CrazyRL">CrazyRL</a> is a MOMARL library under a multi-objective extension of the  <a href= "https://github.com/Farama-Foundation/PettingZoo">PettingZoo</a> API. It allows to learn swarm behaviours in a variety of environments, such as the one shown on the left. It is still under development, but we hope to release it soon.
 </p>
 </div>
