@@ -15,7 +15,7 @@ I am convinced that specifying AI problems as single-objective is often not enou
 
 <img src="../images/mo_cheetah_rect.gif" width=500>
 
-<em>The consequences of learning multiple behaviours, based on different trade-offs in the objectives. Here, the agent learns to run differently based on the trade-off between energy consumption and velocity.</em>
+<em>The consequences of learning multiple behaviours, based on different trade-offs between the objectives.</em>
 
 
 
