@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My [LinkedIn](https://www.linkedin.com/in/florian-felten/) is more complete than this page.
+My [LinkedIn](https://www.linkedin.com/in/florian-felten/) is probably more complete than this page.
 
 Education
 ======
@@ -25,7 +25,7 @@ Work experience
 ======
 * 2023--: Project Manager @ [Farama Foundation](https://farama.org/)
   * I'm one of the original developers and maintainers of [MO-Gymnasium](https://github.com/Farama-Foundation/MO-Gymnasium).
-  * I also contribute to other projects of the foundation.
+  * I also contribute to other projects of the foundation (PettingZoo, SuperSuit).
 * 2021--2023: Lecturer @ Uni.lu
   * Programming Fundamentals 3
   * 2nd year CS course
@@ -49,7 +49,7 @@ Skills
 
 Reviews
 ======
-* [Multi-Objective Decision Making Workshop (MODeM) 2023](https://modem2023.vub.ac.be/#) (PC member & session chair)
+* [Multi-Objective Decision Making Workshop (MODeM) 2023](https://modem2023.vub.ac.be/#) (PC member)
 * [Adaptive and Learning Agents Workshop at AAMAS (ALA) 2023](https://alaworkshop2023.github.io/) (PC member)
 * [International Conference on Optimization and Learning (OLA) 2023](https://ola2023.sciencesconf.org/) (PC member)
 
