@@ -33,7 +33,7 @@ Aside from the cool things mentionned above, I am into cinema, cycling, and beer
 
 <div>
 <h2> A toolkit for reliable research in MORL </h2>
-We wrote a few repositories aiming at helping researchers in reproducing results of existing MORL algorithms as well as facilitating the whole research process by providing clean implementations and examples. By making this public, our hope is to attract even more people to the MORL field and remove boilerplate from the research process.  A paper describing the whole toolkit has been published at <a href=="https://openreview.net/forum?id=jfwRLudQyj">NeurIPS23</a>.
+We wrote a few repositories aiming at helping researchers in reproducing results of existing MORL algorithms as well as facilitating the whole research process by providing clean implementations and examples. By making this public, our hope is to attract even more people to the MORL field and remove boilerplate from the research process.  A paper describing the whole toolkit has been published at <a href="https://openreview.net/forum?id=jfwRLudQyj">NeurIPS23</a>.
 </div>
 
 <div>
