@@ -1,7 +1,7 @@
 ---
 title: "Presentation of Metaheuristics Based exploration strategies at ICAART"
 collection: talks
-type: "Conference proceedings talk"
+type: "Conference talk"
 permalink: /talks/2022-02-01-meta-talk
 venue: "International Conference on Agents and Artificial Intelligence"
 date: 2022-02-01
