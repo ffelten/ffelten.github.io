@@ -65,7 +65,7 @@ We wrote a few repositories aiming at helping researchers in reproducing results
 <h2> MOMAland </h2>
 <p>
 <img src="../images/walkers_pf.gif" width=300 style="float:left; padding:10px">
-<a href="https://github.com/Farama-Foundation/momaland">MOMAland</a> is a standard MOMARL API and suite of environments. Basically multi-agent MO-Gymnasium, or multi-objective PettingZoo 🙂. Also integrated into Farama.
+<a href="https://github.com/Farama-Foundation/momaland">MOMAland</a> is a standard MOMARL API and suite of environments. Basically a multi-agent version of MO-Gymnasium, or a multi-objective version of PettingZoo 🙂. Also integrated into the Farama toolkit.
 </p>
 </div>
 
@@ -74,7 +74,8 @@ We wrote a few repositories aiming at helping researchers in reproducing results
 <h2> CrazyRL </h2>
 <p>
 <img src="../images/circle.gif" width=300 style="float:left; padding:10px">
-<a href="https://github.com/ffelten/CrazyRL">CrazyRL</a> is a MOMARL library under a multi-objective extension of the  <a href= "https://github.com/Farama-Foundation/PettingZoo">PettingZoo</a> API. It allows to learn swarm behaviours in a variety of environments, such as the one shown on the left. We also implemented the full MOMARL loop on GPU using Jax, allowing to train agents 2000x faster than when the environment runs on the CPU. Check the video on [YouTube](https://www.youtube.com/watch?v=4FeTjZnpgJI&ab_channel=FlorianFelten).
+<a href="https://github.com/ffelten/CrazyRL">CrazyRL</a> is a MOMARL library under a multi-objective extension of the  <a href= "https://github.com/Farama-Foundation/PettingZoo">PettingZoo</a> API. It allows to learn swarm behaviours in a variety of environments, such as the one shown on the left. We also implemented the full MOMARL loop on GPU using Jax, allowing to train agents 2000x faster than when the environment runs on the CPU. Check the video on 
+<a href="https://www.youtube.com/watch?v=4FeTjZnpgJI&ab_channel=FlorianFelten">YouTube</a>.
 </p>
 </div>
 
