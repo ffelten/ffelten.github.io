@@ -3,7 +3,7 @@ title: "Multi-Objective Reinforcement Learning Based on Decomposition: A Taxonom
 collection: publications
 permalink: /publication/2024-02-MORLD
 excerpt: 'MOO/D + RL = MORL/D'
-date: 2023-10-25
+date: 2024-02-12
 venue: 'Journal of Artificial Intelligence Research (JAIR)'
 paperurl: 'https://www.jair.org/index.php/jair/article/view/15702'
 citation: ' Florian Felten, El Ghazali Talbi, and Grégoire Danoy, ‘Multi-Objective Reinforcement Learning Based on Decomposition: A Taxonomy and Framework’, in Journal of Artificial Intelligence Research.'

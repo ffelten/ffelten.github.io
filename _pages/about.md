@@ -70,9 +70,9 @@ We wrote a few repositories aiming at helping researchers in reproducing results
 <h2> MOMAland </h2>
 <p>
 <img src="../images/walkers_pf.gif" width=300 style="float:left; padding:10px">
-<a href="https://github.com/Farama-Foundation/momaland">MOMAland</a> is a standard MOMARL API and suite of environments. Basically a multi-agent version of MO-Gymnasium, or a multi-objective version of PettingZoo 🙂. Also integrated into the Farama toolkit.
- 
-  
+<a href="https://github.com/Farama-Foundation/momaland">MOMAland</a> is a standard MOMARL API and suite of environments. Basically a multi-agent version of MO-Gymnasium, or a multi-objective version of PettingZoo 🙂. Also integrated into the Farama toolkit.<br />
+ <br />
+  <br />
 Paper in progress.
 </p>
 </div>
