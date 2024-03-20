@@ -27,6 +27,11 @@ Aside from the cool things mentionned above, I am into cinema, cycling, and beer
 
 <em>Left: the Epuck robots, some of our toys in ADARS. Right: the Crazyflie robots in action.</em>
 
+<h1> Most significant publications </h1>
+
+* Multi-Objective Reinforcement Learning Based on Decomposition: A Taxonomy and Framework: [JAIR](https://www.jair.org/index.php/jair/article/view/15702)
+* Toolkit for MORL: [NeurIPS23](https://openreview.net/forum?id=jfwRLudQyj)
+
 
 
 <h1> Open source </h1>
@@ -68,7 +73,7 @@ We wrote a few repositories aiming at helping researchers in reproducing results
 <a href="https://github.com/Farama-Foundation/momaland">MOMAland</a> is a standard MOMARL API and suite of environments. Basically a multi-agent version of MO-Gymnasium, or a multi-objective version of PettingZoo 🙂. Also integrated into the Farama toolkit.
  
   
-   
+Paper in progress.
 </p>
 </div>
 
