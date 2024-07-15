@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD Student in the [PCOG](https://pcog.uni.lu/) group at the University of Luxembourg. My current research interests are Multi-Objective Optimization, Reinforcement Learning, and Swarm Applications. I am currently working on the ([ADARS](https://adars.uni.lu/)) project, under the supervision of [Grégoire Danoy](https://danoy.gforge.uni.lu/). Because I believe in open source AI, I'm also contributing to the [Farama Foundation](https://farama.org/), a non-profit organization aiming at facilitating the development of open-source tools for Reinforcement Learning.
+I am a PostDoc at ETH Zürich, working on automated design with [Mark Fuge](https://ideal.umd.edu/team/mark-fuge). My current research interests are Multi-Objective Optimization, Reinforcement Learning, and Benchmarking. Because I believe in open source AI, I'm also contributing to the [Farama Foundation](https://farama.org/), a non-profit organization aiming at facilitating the development of open-source tools for Reinforcement Learning.
 
-I am convinced that specifying AI problems as single-objective is often not enough since we often make compromises in real-life situations. Thus, I dedicate a substantial part of my time researching on Multi-Objective Reinforcement Learning (MORL). 
+Before that, I was a PhD Student in the [PCOG](https://pcog.uni.lu/) group at the University of Luxembourg, under the supervision of [Grégoire Danoy](https://danoy.gforge.uni.lu/)... and even before that I was a tech lead at [N-SIDE](https://www.n-side.com/), a company specialized in optimization software.
 
 
 <img src="../images/mo_cheetah_rect.gif" width=500>
@@ -18,14 +18,11 @@ I am convinced that specifying AI problems as single-objective is often not enou
 <em>The consequences of learning multiple behaviours, based on different trade-offs between the objectives.</em>
 
 
-
-Before my PhD, I specialized into combinatorial optimization techniques such as constraint programming, local search, meta-heuristics algorithms. I worked a few years in the industry on supply chain optimization, planning problems, and have been exposed to various software engineering challenges. 
-
 Aside from the cool things mentionned above, I am into cinema, cycling, and beers (yes, I am Belgian).
 
 <img src="../images/epuck.jpeg" width=300>  <img src="../images/circle.gif" width=350>
 
-<em>Left: the Epuck robots, some of our toys in ADARS. Right: the Crazyflie robots in action.</em>
+<em>Left: the Epuck robots. Right: the Crazyflie robots in action.</em>
 
 <h1> Most significant publications </h1>
 
