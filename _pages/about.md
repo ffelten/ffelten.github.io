@@ -10,7 +10,10 @@ redirect_from:
 
 I am a PostDoc at ETH Zürich, working on automated design with [Mark Fuge](https://ideal.umd.edu/team/mark-fuge). My current research interests are Multi-Objective Optimization, Reinforcement Learning, and Benchmarking. Because I believe in open source AI, I'm also contributing to the [Farama Foundation](https://farama.org/), a non-profit organization aiming at facilitating the development of open-source tools for Reinforcement Learning.
 
-Before that, I was a PhD Student in the [PCOG](https://pcog.uni.lu/) group at the University of Luxembourg, under the supervision of [Grégoire Danoy](https://danoy.gforge.uni.lu/)... and even before that I was a tech lead at [N-SIDE](https://www.n-side.com/), a company specialized in optimization software.
+Before that, I was a PhD Student in the [PCOG](https://pcog.uni.lu/) group at the University of Luxembourg, under the supervision of [Grégoire Danoy](https://danoy.gforge.uni.lu/), where I did a [thesis on Multi-Objective RL](https://ffelten.github.io/files/Thesis_website.pdf).
+
+
+... and even before that I was a tech lead at [N-SIDE](https://www.n-side.com/), a company specialized in optimization software.
 
 
 <img src="../images/mo_cheetah_rect.gif" width=500>
