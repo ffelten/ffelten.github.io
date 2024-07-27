@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-06-Thesis
 excerpt: 'My Thesis on Multi-Objective Reinforcement Learning'
 date: 2024-06-25
-venue: ''
+venue: 'Université du Luxembourg [FSTM]'
 paperurl: 'https://hdl.handle.net/10993/61488'
 citation: ' Florian Felten, ‘Multi-Objective Reinforcement Learning’, in Unilu - Université du Luxembourg [FSTM], Luxembourg.'
 ---
