@@ -13,7 +13,7 @@ My [LinkedIn](https://www.linkedin.com/in/florian-felten/) is probably more comp
 
 Education
 ======
-* Ph.D in Computer Science (2021--present)
+* Ph.D in Computer Science (2021--2024)
   * T.A. in Optimization for Computer Scientist: Master
 * M.S. in Computer Science, Université Catholique de Louvain, Major in AI, Big Data and Optimization, 2018
   * [Thesis](https://dial.uclouvain.be/memoire/ucl/en/object/thesis%3A14566) subject: "Reducing train delays in a real-time context: a **Constraint Programming** approach using conditional time-interval variables"
@@ -23,6 +23,7 @@ Education
 
 Work experience
 ======
+* 2024--: PostDoc @ ETH Zurich
 * 2023--: Project Manager @ [Farama Foundation](https://farama.org/)
   * I'm one of the original developers and maintainers of [MO-Gymnasium](https://github.com/Farama-Foundation/MO-Gymnasium).
   * I also contribute to other projects of the foundation (PettingZoo, SuperSuit).
@@ -56,19 +57,19 @@ Reviews
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
