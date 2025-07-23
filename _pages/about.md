@@ -30,22 +30,13 @@ Aside from the cool things mentionned above, I am into cinema, cycling, and beer
 
 <br>
 <br>
-<br>
 <h1> Most significant publications </h1>
-<br>
-<br>
-<br>
-
 * Multi-Objective Reinforcement Learning Based on Decomposition: A Taxonomy and Framework: [JAIR (2024)](https://www.jair.org/index.php/jair/article/view/15702).
 * Toolkit for MORL: [NeurIPS (2023)](https://openreview.net/forum?id=jfwRLudQyj).
 
 <br>
 <br>
-<br>
 <h1> Open source </h1>
-<br>
-<br>
-<br>
 
 <div>
 <h2> EngiBench </h2>
