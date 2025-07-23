@@ -86,7 +86,7 @@ analytics:
 # Site Author
 author:
   name             : "Florian Felten"
-  avatar           : "profile_pic.jpg"
+  avatar           : "profile_pic.jpeg"
   bio              : "PostDoc, I work on AI for automated design."
   location         : "Zürich, Switzerland"
   employer         :
