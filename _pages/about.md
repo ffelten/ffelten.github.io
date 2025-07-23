@@ -44,6 +44,8 @@ Aside from the cool things mentionned above, I am into cinema, cycling, and beer
 <br>
 <a href="https://engibench.ethz.ch/">EngiBench</a> offers a collection of engineering design problems, datasets, and benchmarks to facilitate the development and evaluation of optimization and ML algorithms for engineering design. Our goal is to provide a standard API to enable researchers to easily compare and evaluate their algorithms on a wide range of engineering design problems--think wings of aircrafts, beams, heat conduction components. We also give generative algorithms compatible with the API in <a href="https://github.com/IDEALLab/EngiOpt">EngiOpt</a>.
 </div>
+<br>
+
 
 <div>
 <h2> A toolkit for reliable research in MORL </h2>
@@ -75,6 +77,7 @@ We wrote a few repositories aiming at helping researchers in reproducing results
 </p>
 </div>
 
+<br>
 <div>
 <h2> MOMAland </h2>
 <p>
@@ -86,7 +89,7 @@ Paper: <a href="https://arxiv.org/abs/2507.10000">MOMAland: A Set of Benchmarks 
 </p>
 </div>
 
-
+<br>
 <div>
 <h2> CrazyRL </h2>
 <p>
