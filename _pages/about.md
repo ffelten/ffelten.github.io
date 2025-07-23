@@ -38,8 +38,9 @@ Aside from the cool things mentionned above, I am into cinema, cycling, and beer
 
 <div>
 <h2> EngiBench </h2>
-<img src="../images/engibench.png" width=300 style="padding:10px">
-<a href="https://engibench.ethz.ch/">EngiBench</a> EngiBench offers a collection of engineering design problems, datasets, and benchmarks to facilitate the development and evaluation of optimization and ML algorithms for engineering design. Our goal is to provide a standard API to enable researchers to easily compare and evaluate their algorithms on a wide range of engineering design problems--think wings of aircrafts, beams, heat conduction components.
+<img src="../images/engibench.png" width=800 style="padding:10px">
+<br>
+<a href="https://engibench.ethz.ch/">EngiBench</a> offers a collection of engineering design problems, datasets, and benchmarks to facilitate the development and evaluation of optimization and ML algorithms for engineering design. Our goal is to provide a standard API to enable researchers to easily compare and evaluate their algorithms on a wide range of engineering design problems--think wings of aircrafts, beams, heat conduction components. We also give generative algorithms compatible with the API in <a href="https://github.com/IDEALLab/EngiOpt">EngiOpt</a>.
 </div>
 
 <div>
