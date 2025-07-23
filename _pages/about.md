@@ -37,6 +37,12 @@ Aside from the cool things mentionned above, I am into cinema, cycling, and beer
 <h1> Open source </h1>
 
 <div>
+<h2> EngiBench </h2>
+<img src="../images/engibench.png" width=300 style="padding:10px">
+<a href="https://engibench.ethz.ch/">EngiBench</a> EngiBench offers a collection of engineering design problems, datasets, and benchmarks to facilitate the development and evaluation of optimization and ML algorithms for engineering design. Our goal is to provide a standard API to enable researchers to easily compare and evaluate their algorithms on a wide range of engineering design problems--think wings of aircrafts, beams, heat conduction components.
+</div>
+
+<div>
 <h2> A toolkit for reliable research in MORL </h2>
 We wrote a few repositories aiming at helping researchers in reproducing results of existing MORL algorithms as well as facilitating the whole research process by providing clean implementations and examples. By making this public, our hope is to attract even more people to the MORL field and remove boilerplate from the research process.  A paper describing the whole toolkit has been published at <a href="https://openreview.net/forum?id=jfwRLudQyj">NeurIPS23</a>.
 </div>
@@ -73,7 +79,7 @@ We wrote a few repositories aiming at helping researchers in reproducing results
 <a href="https://github.com/Farama-Foundation/momaland">MOMAland</a> is a standard MOMARL API and suite of environments. Basically a multi-agent version of MO-Gymnasium, or a multi-objective version of PettingZoo 🙂. Also integrated into the Farama toolkit.<br />
  <br />
   <br />
-Paper in progress.
+Paper: <a href="https://arxiv.org/abs/2507.10000">MOMAland: A Set of Benchmarks for Multi-Objective Multi-Agent Reinforcement Learning</a>
 </p>
 </div>
 
