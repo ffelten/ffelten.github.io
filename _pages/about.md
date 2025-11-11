@@ -33,6 +33,7 @@ Aside from the cool things mentionned above, I am into cinema, cycling, and beer
 <br>
 <br>
 <h1> Most significant publications </h1>
+* EngiBench: A Framework for Data-Driven Engineering Design Research: [NeurIPS (2025)](https://openreview.net/forum?id=YowD33Q89V).
 * Multi-Objective Reinforcement Learning Based on Decomposition: A Taxonomy and Framework: [JAIR (2024)](https://www.jair.org/index.php/jair/article/view/15702).
 * Toolkit for MORL: [NeurIPS (2023)](https://openreview.net/forum?id=jfwRLudQyj).
 

@@ -1,7 +1,7 @@
 ---
 title: "Spotlight on young researchers"
 collection: talks
-type: "Vulgarization"
+type: "Dissemination"
 permalink: /talks/2023-06-01-spotlight
 venue: "My lab"
 date: 2023-06-01
