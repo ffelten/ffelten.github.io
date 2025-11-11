@@ -18,9 +18,9 @@ Before that, I was a PhD Student in the [PCOG](https://pcog.uni.lu/) group at th
 ... and even before that I was a tech lead at [N-SIDE](https://www.n-side.com/), a company specialized in optimization software.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=VEXRuhJDkoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VEXRuhJDkoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<em>This is my thesis in a nutshell.</em>
+<em>This is my PhD thesis in a nutshell.</em>
 
 
 Aside from the cool things mentionned above, I am into cinema, cycling, and beers (yes, I am Belgian).
