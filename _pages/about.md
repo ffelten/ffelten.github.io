@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently building [FeedbAct](https://www.feedbact.app/), hoping to change the way we do feedback within organizations.
+I am currently exploring and building [FeedbAct](https://www.feedbact.app/), learning along the way how to create useful products that users love.
 
-I am a PostDoc at ETH Zürich, working on automated design with [Mark Fuge](https://ideal.umd.edu/team/mark-fuge). My current research interests are Multi-Objective Optimization, Reinforcement Learning, and Benchmarking. Because I believe in open source AI, I'm also contributing to the [Farama Foundation](https://farama.org/), a non-profit organization aiming at facilitating the development of open-source tools for Reinforcement Learning.
+I am also a PostDoc at ETH Zürich, working on automated design with [Mark Fuge](https://ideal.umd.edu/team/mark-fuge). My current research interests are Multi-Objective Optimization, Reinforcement Learning, and Benchmarking. Because I believe in open source AI, I'm also contributing to the [Farama Foundation](https://farama.org/), a non-profit organization aiming at facilitating the development of open-source tools for Reinforcement Learning.
 
 Before that, I was a PhD Student in the [PCOG](https://pcog.uni.lu/) group at the University of Luxembourg, under the supervision of [Grégoire Danoy](https://danoy.gforge.uni.lu/), where I did a [thesis on Multi-Objective RL](https://ffelten.github.io/files/Thesis_website.pdf).
 
@@ -18,27 +18,19 @@ Before that, I was a PhD Student in the [PCOG](https://pcog.uni.lu/) group at th
 ... and even before that I was a tech lead at [N-SIDE](https://www.n-side.com/), a company specialized in optimization software.
 
 
-<img src="../images/mo_cheetah_rect.gif" width=500>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=VEXRuhJDkoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<em>The consequences of learning multiple behaviours, based on different trade-offs between the objectives.</em>
+<em>This is my thesis in a nutshell.</em>
 
 
 Aside from the cool things mentionned above, I am into cinema, cycling, and beers (yes, I am Belgian).
 
-<img src="../images/epuck.jpeg" width=300>  <img src="../images/circle.gif" width=350>
 
-<em>Left: the Epuck robots. Right: the Crazyflie robots in action.</em>
-
-
-<br>
-<br>
 <h1> Most significant publications </h1>
 * EngiBench: A Framework for Data-Driven Engineering Design Research: [NeurIPS (2025)](https://openreview.net/forum?id=YowD33Q89V).
 * Multi-Objective Reinforcement Learning Based on Decomposition: A Taxonomy and Framework: [JAIR (2024)](https://www.jair.org/index.php/jair/article/view/15702).
 * Toolkit for MORL: [NeurIPS (2023)](https://openreview.net/forum?id=jfwRLudQyj).
 
-<br>
-<br>
 <h1> Open source </h1>
 
 <div>
