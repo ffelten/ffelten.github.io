@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Florian Felten"
 title_separator          : "-"
 name                     : &name "Florian Felten"
-description              : &description "Postdoc @ ETH Zurich"
+description              : &description "I'm exploring new ideas."
 url                      : https://ffelten.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ffelten/ffelten.github.io"
@@ -88,12 +88,12 @@ analytics:
 author:
   name             : "Florian Felten"
   avatar           : "profile_pic.jpeg"
-  bio              : "PostDoc, I work on AI for automated design."
-  location         : "Zürich, Switzerland"
+  bio              : "I'm exploring new ideas."
+  location         : "Brussels,Belgium"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=fqzUV0AAAAAJ&hl=en"
-  email            : "ffeten@mavt.ethz.ch"
+  email            : ""
   researchgate     : "https://www.researchgate.net/profile/Florian-Felten"
   uri              :
   bitbucket        :
