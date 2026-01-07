@@ -3,7 +3,7 @@ title: "EngiBench: A Framework for Data-Driven Engineering Design Research"
 collection: publications
 permalink: /publication/2025-12-EngiBench
 excerpt: 'The first unified API for engineering design optimization and ML research.'
-date: 2024-02-12
+date: 2025-12-12
 venue: 'NeurIPS 2025'
 paperurl: 'https://openreview.net/forum?id=YowD33Q89V'
 citation: 'Florian Felten, Gabriel Apaza, Gerhard Bräunlich, Cashen Diniz, XULIANG DONG, Arthur Drake, Milad Habibi, Nathaniel James Hoffman, Matthew Keeler, Soheyl Massoudi, Francis VanGessel, Mark Fuge ‘EngiBench: A Framework for Data-Driven Engineering Design Research’, in NeurIPS 2025.'

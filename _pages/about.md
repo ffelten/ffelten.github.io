@@ -8,12 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently exploring and building [FeedbAct](https://www.feedbact.app/), learning along the way how to create useful products that users love.
+> I'm currently taking a few months to explore entrepreneurship. Maybe I'll come up with something useful; I'll certainly learn along the way. I'll try to document what I learn each month during this journey.
 
-I am also a PostDoc at ETH Zürich, working on automated design with [Mark Fuge](https://ideal.umd.edu/team/mark-fuge). My current research interests are Multi-Objective Optimization, Reinforcement Learning, and Benchmarking. Because I believe in open source AI, I'm also contributing to the [Farama Foundation](https://farama.org/), a non-profit organization aiming at facilitating the development of open-source tools for Reinforcement Learning.
+Before that, I was a PostDoc at ETH Zürich, working on automated design with [Mark Fuge](https://ideal.umd.edu/team/mark-fuge). My research areas: Multi-Objective Optimization, Reinforcement Learning, and Benchmarking. 
 
-Before that, I was a PhD Student in the [PCOG](https://pcog.uni.lu/) group at the University of Luxembourg, under the supervision of [Grégoire Danoy](https://danoy.gforge.uni.lu/), where I did a [thesis on Multi-Objective RL](https://ffelten.github.io/files/Thesis_website.pdf).
-
+... Before that, I was a PhD Student in the [PCOG](https://pcog.uni.lu/) group at the University of Luxembourg, under the supervision of [Grégoire Danoy](https://danoy.gforge.uni.lu/), where I did a [thesis on Multi-Objective RL](https://ffelten.github.io/files/Thesis_website.pdf). And won several awards from [FNR](https://www.fnr.lu/fnr-awards-2025-discover-the-winners/), and from the [University of Luxembourg](https://www.uni.lu/research-en/news/excellent-doctoral-thesis-awards-2024-in-science/).
 
 ... and even before that I was a tech lead at [N-SIDE](https://www.n-side.com/), a company specialized in optimization software.
 
@@ -32,6 +31,7 @@ Aside from the cool things mentionned above, I am into cinema, cycling, and beer
 * Toolkit for MORL: [NeurIPS (2023)](https://openreview.net/forum?id=jfwRLudQyj).
 
 <h1> Open source </h1>
+I have been quite involved in open source stuffs over the past few years. And I'm quite proud to say the amazing tools we've built have been downloaded several hundreds of thousands of times. I'm a member of the [Farama Foundation](https://farama.org/), a non-profit organization aiming at facilitating the development of open-source tools for Reinforcement Learning.
 
 <div>
 <h2> EngiBench </h2>

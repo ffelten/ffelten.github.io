@@ -14,6 +14,7 @@ My [LinkedIn](https://www.linkedin.com/in/florian-felten/) is probably more comp
 Education
 ======
 * Ph.D in Computer Science (2021--2024)
+  * I won several awards for my thesis on multi-objective RL.
   * T.A. in Optimization for Computer Scientist: Master
 * M.S. in Computer Science, Université Catholique de Louvain, Major in AI, Big Data and Optimization, 2018
   * [Thesis](https://dial.uclouvain.be/memoire/ucl/en/object/thesis%3A14566) subject: "Reducing train delays in a real-time context: a **Constraint Programming** approach using conditional time-interval variables"
@@ -23,7 +24,8 @@ Education
 
 Work experience
 ======
-* 2024--: PostDoc @ ETH Zurich
+* 2026--: Self employed / entrepreneur.
+* 2024--2026: PostDoc @ ETH Zurich
 * 2023--: Project Manager @ [Farama Foundation](https://farama.org/)
   * I'm one of the original developers and maintainers of [MO-Gymnasium](https://github.com/Farama-Foundation/MO-Gymnasium).
   * I also contribute to other projects of the foundation (PettingZoo, SuperSuit).
@@ -50,8 +52,9 @@ Skills
 
 Reviews
 ======
+* [NeurIPS](https://neurips.cc/) (Reviewer)
 * [Neural Computing and Applications](https://www.springer.com/journal/521) (Reviewer)
-* [Multi-Objective Decision Making Workshop (MODeM) 2023 & 2024](https://modem2023.vub.ac.be/#) (PC member)
+* [Multi-Objective Decision Making Workshop (MODeM) 2023--2025](https://modem2023.vub.ac.be/#) (PC member)
 * [Adaptive and Learning Agents Workshop at AAMAS (ALA) 2023 & 2024](https://alaworkshop2023.github.io/) (PC member)
 * [International Conference on Optimization and Learning (OLA) 2022--2024](https://ola2023.sciencesconf.org/) (PC member)
 
