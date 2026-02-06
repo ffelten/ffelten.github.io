@@ -1,6 +1,7 @@
+.author__avatar,
 .author__avatar img {
-    width: 200px;        /* adjust size if you want */
-    height: 200px;
-    object-fit: cover;  /* prevents stretching */
-    border-radius: 50%;
-  }
+  width: 200px;       /* set a square size you like */
+  height: 200px;
+  object-fit: cover;  /* crop rather than distort */
+  border-radius: 50%;
+}
