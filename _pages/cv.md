@@ -13,11 +13,12 @@ My [LinkedIn](https://www.linkedin.com/in/florian-felten/) is probably more comp
 
 Education
 ======
-* Ph.D in Computer Science (2021--2024)
-  * I won several awards for my thesis on multi-objective RL.
+* Ph.D. in Computer Science (2021--2024)
+  * I won several awards for my thesis on [Multi-Objective Reinforcement Learning](https://hdl.handle.net/10993/61488). Simple as that.
+  * Lecturer at the University of Luxembourg for the course "Programming Fundamentals 3".
   * T.A. in Optimization for Computer Scientist: Master
 * M.S. in Computer Science, Université Catholique de Louvain, Major in AI, Big Data and Optimization, 2018
-  * [Thesis](https://dial.uclouvain.be/memoire/ucl/en/object/thesis%3A14566) subject: "Reducing train delays in a real-time context: a **Constraint Programming** approach using conditional time-interval variables"
+  * [Thesis](https://dial.uclouvain.be/memoire/ucl/en/object/thesis%3A14566) subject: "Reducing train delays in a real-time context: a Constraint Programming approach using conditional time-interval variables"
   * Grade: Magna Cum Laude
   * Erasmus at KTH, Stockholm
 * B.S. in Computer Science, Université Catholique de Louvain, 2015
@@ -26,27 +27,28 @@ Work experience
 ======
 * 2026--: Self employed / entrepreneur.
 * 2024--2026: PostDoc @ ETH Zurich
+  * I lead the effort on the development of [EngiBench](https://engibench.ethz.ch/), a framework for data-driven engineering design research.
 * 2023--: Project Manager @ [Farama Foundation](https://farama.org/)
-  * I'm one of the original developers and maintainers of [MO-Gymnasium](https://github.com/Farama-Foundation/MO-Gymnasium).
+  * I'm one of the original developers and maintainers of [MO-Gymnasium](https://github.com/Farama-Foundation/MO-Gymnasium) and [MOMAland](https://github.com/Farama-Foundation/MOMAland).
   * I also contribute to other projects of the foundation (PettingZoo, SuperSuit).
 * 2021--2023: Lecturer @ Uni.lu
   * Programming Fundamentals 3
   * 2nd year CS course
-  * Functional Programming, Concurrent Programming, Introduction to distributed systems
-
-* 2018--2021: Software engineer @ [N-SIDE](https://www.n-side.com/)
+  * Functional Programming, Concurrent Programming, Introduction to distributed systems.
+* 2018--2021: Software Engineer @ [N-SIDE](https://www.n-side.com/)
   * Duties included: Architecture, Development and deployment of the apps, Backlog management, Requirement analysis.
   * Stack: Scala, Akka, Kubernetes, IBM CP Optimizer, Scala.js
   
 Skills
 ======
-* Optimization
+* Reinforcement Learning
+* Multi-Objective Optimization
 * Machine Learning
 * Programming
-  * Functional 
-  * Imperative & Object-Oriented
+  * Functional Programming
+  * Imperative & Object-Oriented Programming
   * Concurrency
-  * Distributed systems
+  * Distributed Systems
 * Teaching
 * Chilling
 
