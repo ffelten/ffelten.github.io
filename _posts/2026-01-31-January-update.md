@@ -45,8 +45,8 @@ There's always a balance between pushing harder and knowing when to stop. For us
 - **Talk to people early and often.** You're probably not your persona, and your user might not be your buyer. The only way to find out is to talk, listen, and ask good questions (Mom Test style).
 - **Go-to-market is important.** We built a solid product, but we underestimated how hard it is to get it in front of the right people. In B2B, credibility, access, and timing often matter more than product quality in the early stages.
 - **Integration beats innovation.** Even if your idea is great, customers often prefer something that fits into their existing workflow over something entirely new. Next time, we'll think about integrations and partnerships much earlier.
-- **Ego is a trap.** Stopping was hard for me because I had publicly announced I was working on this. But I managed to convince myself that it's braver to recognize early when something isn’t working than to double down and dig deeper into the rabbit hole.
+- **Ego is a trap.** Stopping was hard for me because I had publicly announced I was working on this. But I managed to convince myself that it's braver to recognize early when something isn't working than to double down and dig deeper into the rabbit hole.
 
 ## What we’re doing now
 
-So I moved to Brussels in January and am now full time working on new ideas. It honestly feels great to have some time to think about new things instead of rushing to the obvious next step. We'll see what happens.
+So I moved to Brussels in January and am now working full time on new ideas. It honestly feels great to have some time to think about new things instead of rushing to the obvious next step. We'll see what happens.
