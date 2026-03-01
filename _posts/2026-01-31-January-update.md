@@ -1,3 +1,12 @@
+---
+title: 'January 2026 update'
+date: 2026-01-31
+permalink: /posts/january-2026-update/
+tags:
+  - Entrepreneurship
+  - Life
+---
+
 # Why we pivoted
 > I said I would do updates on my entrepreneurship journey, so here it is for the past year and January 2026.
 
@@ -47,6 +56,6 @@ There's always a balance between pushing harder and knowing when to stop. For us
 - **Integration beats innovation.** Even if your idea is great, customers often prefer something that fits into their existing workflow over something entirely new. Next time, we'll think about integrations and partnerships much earlier.
 - **Ego is a trap.** Stopping was hard for me because I had publicly announced I was working on this. But I managed to convince myself that it's braver to recognize early when something isn't working than to double down and dig deeper into the rabbit hole.
 
-## What we’re doing now
+## What we're doing now
 
 So I moved to Brussels in January and am now working full time on new ideas. It honestly feels great to have some time to think about new things instead of rushing to the obvious next step. We'll see what happens.
