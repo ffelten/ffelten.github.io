@@ -7,9 +7,9 @@ tags:
   - Life
 ---
 
-# Why we pivoted
 > I said I would do updates on my entrepreneurship journey, so here it is for the past year and January 2026.
 
+# Why we pivoted
 Background: We're both engineers. In early 2025, I was still in my postdoc, and Arnaud (my co-founder) was working in industry, so we were building this on the side.
 
 We built **FeedbAct** to make employee feedback more human and insightful.
