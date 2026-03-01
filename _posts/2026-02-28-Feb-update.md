@@ -7,6 +7,8 @@ tags:
   - Life
 ---
 
+> The rollercoaster is on, we are entrepreneurs!
+
 ## The company
 - **Finding a home**: We've visited a lot of co-working spaces in Brussels. We feel it is important to have a place where we can exchange ideas and also avoid staying alone at home for our own sanity.
 - **I say wat?**: We got into [wat.bxl](https://www.wat.com/), a new incubator in Brussels. an old factory building converted into a workspace with "quick-and-dirty" desks and a crowd of people grinding on their own projects. We felt the energy of the place and the people. You exchange ideas, you receive feedback, you get to know people, you realize you're not alone doing this crazy journey. After visiting, we both said it was the place to be for startups in Brussels.
@@ -22,7 +24,7 @@ tags:
 - **The iterative approach**: We do niche by niche, doing interviews, doing proof of concepts, testing our hypotheses, checking if there is traction. The speed at which we currently iterate is quite high. Honestly, I'm sometimes reluctant to say exactly what we're building because I know it'll probably be different by next week. It will just take time until we find the right idea--hence the consulting part. 
 
 ## The mood
-I'm not going to lie: this is one of the hardest things I've ever done. You are constantly surrounded by doubt. People tell you you're crazy, or that you should just settle down and "chill."
+I'm not going to lie: this is one of the hardest things I've ever done. You are constantly surrounded by doubt. People tell you you're crazy, or that you should just settle down and chill.
 
 Personally, I'm back to learning a lot of things (sometimes even the basics) and I feel like a junior again. It's a humbling experience, but I actually enjoy that part. I like the "burn" of learning something new, whether it's about myself or the world. The funny thing is, whenever I feel too insecure, I just start coding. I know I'm good at it; it soothes me and brings me back to center (autism confirmed 😆).
 
