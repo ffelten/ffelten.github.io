@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-> I'm currently taking a few months to explore entrepreneurship. Maybe I'll come up with something useful; I'll certainly learn along the way. I'll try to document what I learn each month during this journey.
+> I'm currently taking a few months to explore entrepreneurship @ [Autom8.build](https://autom8.build). Maybe I'll come up with something useful; I'll certainly learn along the way. I'll try to document what I learn each month during this journey.
 
 Before that, I was a PostDoc at ETH Zürich, working on automated design with [Mark Fuge](https://ideal.umd.edu/team/mark-fuge). My research areas: Multi-Objective Optimization, Reinforcement Learning, and Benchmarking. 
 
