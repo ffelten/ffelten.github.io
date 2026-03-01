@@ -11,7 +11,7 @@ tags:
 
 ## The company
 - **Finding a home**: We've visited a lot of co-working spaces in Brussels. We feel it is important to have a place where we can exchange ideas and also avoid staying alone at home for our own sanity.
-- **I say wat?**: We got into [wat.bxl](https://www.wat.com/), a new incubator in Brussels. an old factory building converted into a workspace with "quick-and-dirty" desks and a crowd of people grinding on their own projects. We felt the energy of the place and the people. You exchange ideas, you receive feedback, you get to know people, you realize you're not alone doing this crazy journey. After visiting, we both said it was the place to be for startups in Brussels.
+- **I say wat?**: We got into [wat.bxl](https://www.wat.com/), a new incubator in Brussels. It's exactly like what you would imagine for an incubator; an old factory building converted into a workspace with "quick-and-dirty" desks and a crowd of people grinding on their own projects. We felt the energy of the place and the people. You exchange ideas, you receive feedback, you get to know people, you realize you're not alone doing this crazy journey. After visiting, we both said it was the place to be for startups in Brussels.
 - **The red tape**: The admin parts take longer than expected. There are a lot of things to be aware of when starting a company in Belgium.
 
 ## The environment
