@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-> I'm currently taking a few months to explore entrepreneurship @ [Autom8.build](https://autom8.build). Maybe I'll come up with something useful; I'll certainly learn along the way. I'll try to document what I learn each month during this journey.
+> I'm currently taking a few months to explore entrepreneurship @ [Autom8.build](https://autom8.build) & [Hervé.review](https://herve.review). Maybe I'll come up with something useful; I'll certainly learn along the way. I'll try to document what I learn each month during this journey.
 
 Before that, I was a PostDoc at ETH Zürich, working on automated design with [Mark Fuge](https://ideal.umd.edu/team/mark-fuge). My research areas: Multi-Objective Optimization, Reinforcement Learning, and Benchmarking. 
 
@@ -26,6 +26,7 @@ Aside from the cool things mentionned above, I am into cinema, cycling, and beer
 
 
 <h1> Most significant publications </h1>
+* MOMAland: A Set of Benchmarks for Multi-Objective Multi-Agent Reinforcement Learning [DMLR (2026)](https://openreview.net/forum?id=vzHLRK0sSp)
 * EngiBench: A Framework for Data-Driven Engineering Design Research: [NeurIPS (2025)](https://openreview.net/forum?id=YowD33Q89V).
 * Multi-Objective Reinforcement Learning Based on Decomposition: A Taxonomy and Framework: [JAIR (2024)](https://www.jair.org/index.php/jair/article/view/15702).
 * Toolkit for MORL: [NeurIPS (2023)](https://openreview.net/forum?id=jfwRLudQyj).
@@ -80,7 +81,7 @@ We wrote a few repositories aiming at helping researchers in reproducing results
 <a href="https://github.com/Farama-Foundation/momaland">MOMAland</a> is a standard MOMARL API and suite of environments. Basically a multi-agent version of MO-Gymnasium, or a multi-objective version of PettingZoo 🙂. Also integrated into the Farama toolkit.<br />
  <br />
   <br />
-Paper: <a href="https://arxiv.org/abs/2507.10000">MOMAland: A Set of Benchmarks for Multi-Objective Multi-Agent Reinforcement Learning</a>
+Paper: <a href="https://openreview.net/forum?id=vzHLRK0sSp">MOMAland: A Set of Benchmarks for Multi-Objective Multi-Agent Reinforcement Learning</a>
 </p>
 </div>
 
