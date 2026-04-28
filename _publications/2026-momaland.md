@@ -1,13 +1,14 @@
 ---
-title: "EngiBench: A Framework for Data-Driven Engineering Design Research"
+title: "MOMAland: A Set of Benchmarks for Multi-Objective Multi-Agent Reinforcement Learning"
 collection: publications
-permalink: /publication/2025-12-EngiBench
-excerpt: 'The first unified API for engineering design optimization and ML research.'
-date: 2025-12-12
-venue: 'NeurIPS 2025'
-paperurl: 'https://openreview.net/forum?id=YowD33Q89V'
-citation: 'Florian Felten, Gabriel Apaza, Gerhard Bräunlich, Cashen Diniz, XULIANG DONG, Arthur Drake, Milad Habibi, Nathaniel James Hoffman, Matthew Keeler, Soheyl Massoudi, Francis VanGessel, Mark Fuge ‘EngiBench: A Framework for Data-Driven Engineering Design Research’, in NeurIPS 2025.'
+permalink: /publication/2026-04-MOMAland
+excerpt: 'The first unified API for multi-objective multi-agent RL.'
+date: 2026-04-28
+venue: 'DMLR '
+paperurl: 'https://openreview.net/forum?id=vzHLRK0sSp'
+citation: 'Florian Felten, Umut Ucak, Hicham Azmani, Gao Peng, Willem Röpke, Hendrik Baier, Patrick Mannion, Diederik M. Roijers, Jordan K. Terry, El Ghazali Talbi, Grégoire Danoy, Ann Nowé, Roxana Rădulescu} ‘MOMAland: A Set of Benchmarks for Multi-Objective Multi-Agent Reinforcement Learning’, in Journal of Data-centric Machine Learning Research, 2026.'
 ---
-Engineering design optimization seeks to automatically determine the shapes, topologies, or parameters of components that maximize performance under given conditions. This process often depends on physics-based simulations, which are difficult to install, computationally expensive, and require domain-specific expertise. To mitigate these challenges, we introduce EngiBench, the first open‐source library and datasets spanning diverse domains for data‐driven engineering design. EngiBench provides a unified API and a curated set of benchmarks---covering aeronautics, heat conduction, photonics, and more---that enable fair, reproducible comparisons of optimization and machine learning algorithms, such as generative or surrogate models. We also release EngiOpt, a companion library offering a collection of such algorithms compatible with the EngiBench interface. Both libraries are modular, letting users plug in novel algorithms or problems, automate end-to-end experiment workflows, and leverage built-in utilities for visualization, dataset generation, feasibility checks, and performance analysis. We demonstrate their versatility through experiments comparing state-of-the-art techniques across multiple engineering design problems, an undertaking that was previously prohibitively time-consuming to perform. Finally, we show that these problems pose significant challenges for standard machine learning methods due to highly sensitive and constrained design manifolds.
 
-[Download paper here](https://openreview.net/forum?id=YowD33Q89V)
+Many challenging tasks such as managing traffic systems, electricity grids, or supply chains involve complex decision-making processes that must balance multiple conflicting objectives and coordinate the actions of various independent decision-makers (DMs). One perspective for formalising and addressing such tasks is multi-objective multi-agent reinforcement learning (MOMARL). MOMARL broadens reinforcement learning (RL) to problems with multiple agents each needing to consider multiple objectives in their learning process. In reinforcement learning research, benchmarks are crucial in facilitating progress, evaluation, and reproducibility. The significance of benchmarks is underscored by the existence of numerous benchmark frameworks developed for various RL paradigms, including single-agent RL (e.g., Gymnasium), multi-agent RL (e.g., PettingZoo), and single-agent multi-objective RL (e.g., MO-Gymnasium). To support the advancement of the MOMARL field, we introduce MOMAland, the first collection of standardised environments for multi-objective multi-agent reinforcement learning. MOMAland addresses the need for comprehensive benchmarking in this emerging field, offering over 10 diverse environments that vary in the number of agents, state representations, reward structures, and utility considerations. To provide strong baselines for future research, MOMAland also includes algorithms capable of learning policies in such settings.
+
+[Download paper here](https://openreview.net/forum?id=vzHLRK0sSp)
